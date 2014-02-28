@@ -1,0 +1,21 @@
+{
+  "name": "segmentio-overlay",
+  "description": "A simple overlay UI component.",
+  "version": "0.2.1",
+  "keywords": [
+    "overlay",
+    "mask",
+    "screen"
+  ],
+  "main": "lib/index.js",
+  "styles": [
+    "lib/index.css"
+  ],
+  "dependencies": {
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git",
+    "component-domify": "git://github.com/npmcomponent/component-domify.git",
+    "segmentio-showable": "git://github.com/npmcomponent/segmentio-showable.git",
+    "ianstormtaylor-classes": "git://github.com/npmcomponent/ianstormtaylor-classes.git"
+  },
+  "license": "MIT"
+}
